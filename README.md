@@ -9,9 +9,9 @@
 
 <br/>
 
-I build clean, responsive web apps, mostly with React and Tailwind, and I'm getting comfortable on the backend too.
-By day I'm a frontend developer at Woodapples. By night I'm doing my MCA and breaking things in side projects.
-I like tidy components, boring deploys, and interfaces that don't make people think.
+Full stack developer, mostly working with React, Next.js and Node.js.
+
+currently building projects, ai stuff and my mental sanity. no promises on the last one tho.
 
 <br/>
 
@@ -23,6 +23,11 @@ I like tidy components, boring deploys, and interfaces that don't make people th
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r10ezz&show_icons=false&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e&count_private=true&hide=prs,issues,contribs" alt="stats" />
-</p>
+**Timeline**
+
+| Year | What happened |
+|---|---|
+| 2024 | Graduated BSc CS and joined ERPCA as an intern |
+| 2025 | Internship converted to a full-time offer at ERPCA's parent company. Started a master's degree |
+| 2026 | Built and deployed multiple applications and features at Woodapples Software Solutions |
+| 2027 | will update when i know |
