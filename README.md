@@ -1,5 +1,10 @@
 <h1 align="center">Raj Singh</h1>
-<p align="center">Full Stack Developer · Thane, India</p>
+
+<p align="center">
+  <img src="assets/spiderman.gif" alt="Spiderman GIF" width="220" />
+</p>
+
+<p align="center"><strong>Full Stack Developer</strong> · Thane, India</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/r10ezz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
